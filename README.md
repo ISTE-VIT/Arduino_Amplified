@@ -84,7 +84,7 @@ git push origin my-new-branch
 
  <details><summary>Advance</summary>
 <p>
-<hr>
+<hr/>
 * [Numeric Keypad based Lock system](#Numeric-Keypad-based-Lock-system)
 * [Crowd warning system](#Crowd-warning-system)
 * [Gas detecting Helmet](#Gas-detecting-Helmet)
