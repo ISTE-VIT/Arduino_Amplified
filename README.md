@@ -25,8 +25,8 @@ All that one must do is contribute to any open source project and send atleast 4
 - Fork this repo 
 - Clone on your local machine 
 ```terminal
-git clone https://github.com/<your username>/hacktoberfest.git
-cd hacktoberfest
+git clone https://github.com/<your username>/Arduino_Amplified.git
+cd Arduino_Amplified
 ```
 - Create a new branch 
 ```terminal
