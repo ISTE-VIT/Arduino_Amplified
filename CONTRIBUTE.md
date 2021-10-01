@@ -10,7 +10,7 @@
 - Clone on your local machine 
 ```terminal
 git clone https://github.com/<your username>/Arduino_Amplified.git
-cd hacktoberfest
+cd Arduino_Amplified
 ```
 - Create a new branch 
 ```terminal
