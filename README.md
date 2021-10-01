@@ -168,21 +168,66 @@ The Air quality monitoring system is a system which measures meteorological para
 <a href="https://fritzing.org/"><img src="https://64.media.tumblr.com/677556a2b32b7328150b5e1fc6b1b656/d19e3a3bb3ce0976-0a/s540x810/5fc4a28aa40cfdb86ed3069b5761fb90c78aa74e.jpg" align="left" height="100" width="250" ></a><br>
 
 
+<br>
+<br>
+<br>
+<h2>Other Repos by ISTE for Hacktober</h2>
+
+<br>
+<table align="center">
+<tbody>
+	<tr>
+		
+<td align="center" >
+<span><b><center>Repo Name</center></b></span>
+</td>
+
+<td align="center">
+<span><b><center>Link to the folder</center></b></span>
+</td>
+</tr>
+ <tr>
+	
+	
+
+
+<td align="center" >
+<span><center>Algo Companion</center></span>
+</td>
+
+<td align="center">
+<a href="https://github.com/ISTE-VIT/The-Algo-Companion">Link to the Repo</a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<span><center>Projects Archive</center></span>
+</td>
+
+<td align="center">
+<a  href="https://github.com/ISTE-VIT/Projects-Archive"> Link to the Repo</a>
+</td>
+
+
+
+</tbody>
+</table>
 
  
  
  
 
-<br>
-<br>
-<br>
+
+
  
-<br><br> <h4>
+ <h4>
 	Keep contributing!!
 </h4>
 
  If the information from this repo was useful to you in any way, make sure you give it a star 🌟
-
+<br>
+<hr>
 <p align="center">
 	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
 </p>
