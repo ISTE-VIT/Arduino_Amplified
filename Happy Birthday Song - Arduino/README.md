@@ -1,4 +1,4 @@
-# Grandpa Spoon
+# Happy Birthday Song - Arduino
 
 ## About the Project
 
