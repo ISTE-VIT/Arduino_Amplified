@@ -1,5 +1,5 @@
 int resval = 0;  // holds the value
-int respin = A5; // sensor pin used
+int respin = A0; // sensor pin used
   
 void setup() { 
  
