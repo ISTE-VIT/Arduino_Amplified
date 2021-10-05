@@ -12,7 +12,7 @@ void setup()
 }
 void loop()
 {
-    // Turning ON PWM Ports with Random Duty Cycle Value
+    // Turn ON PWM Ports with Random Duty Cycle Value
     analogWrite(R, random(200));
     analogWrite(G, random(200));
     analogWrite(B, random(200));
