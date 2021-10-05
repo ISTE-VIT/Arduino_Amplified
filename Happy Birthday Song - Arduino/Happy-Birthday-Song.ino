@@ -19,7 +19,8 @@ void playMusicalNotes(char musicalNote, int musicDuration)
 {
 	char musicalScale[] = {'C', 'D', 'E', 'F', 'G', 'A', 'B', 'c', 'd', 'e', 'f', 'g', 'a', 'b', 'x', 'y'};
 	int musicalTones[] = {1915, 1700, 1519, 1432, 1275, 1136, 1014, 956, 834, 765, 593, 468, 346, 224, 655, 715};
-	int speed = 5;    // Tone Corresponding to Note of Scale
+	// Tone Corresponding to Note of Scale
+	int speed = 5;
 	for(int i = 0; i < 17; i++) 
 	{
    		if (musicalScale[i] == musicalNote) 
@@ -39,11 +40,13 @@ void loop()
 	{
    		if(musicalNotes[i] == ' ') 
 		{
-     			delay(musicalBeats[i] * musicTempo);    // Rest - Absence of Sound
+			// Rest - Absence of Sound
+     			delay(musicalBeats[i] * musicTempo);
    		} 
 		else 
 		{
-     			playMusicalNotes(musicalNotes[i], musicalBeats[i] * musicTempo);    // Fermata - Rest on the Note
+			// Fermata - Rest on the Note
+     			playMusicalNotes(musicalNotes[i], musicalBeats[i] * musicTempo);
    		}
    		delay(musicTempo);
 	}
