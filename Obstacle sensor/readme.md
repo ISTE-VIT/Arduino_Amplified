@@ -1,1 +1,1 @@
-
+Obstacle detector - in this project, we made an obstacle detector using arduino and ultra sonic sensor.when we start our porgram, our ultrasonic sensor will be powered on and when any object comes in its range, then we will display "Obstacle detected" along with the distance of object from the sensor.
