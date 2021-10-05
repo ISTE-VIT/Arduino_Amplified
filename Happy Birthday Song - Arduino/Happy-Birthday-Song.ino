@@ -23,7 +23,7 @@ void playMusicalNotes(char musicalNote, int musicDuration)
 	int speed = 5;
 	for(int i = 0; i < 17; i++) 
 	{
-   		if (musicalScale[i] == musicalNote) 
+   		if(musicalScale[i] == musicalNote) 
 		{
     			int newMusicDuration = musicDuration / speed;
      			playMusicalTones(musicalTones[i], newMusicDuration);
