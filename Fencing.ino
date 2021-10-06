@@ -21,11 +21,18 @@ void loop()
 
     if (volt1 == 5.0 || volt2 == 5.0)
     {
-      if (volt1 == 5.0)
+      for (int i = 0; i < 40000; i++)
       {
-        digitalWrite(LED_BUILTIN, HIGH);
+        if (volt1 == 5.0)
+        {
+         digitalWrite(13, HIGH);
+        }
+        else
+        {
+          digitalWrite(12, HIGH);
+        }
+        delayMicroseconds(1);
       }
-    }
   }
   while (mode == 1)
   {
