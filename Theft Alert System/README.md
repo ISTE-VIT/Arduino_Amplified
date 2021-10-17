@@ -27,9 +27,3 @@ C++
 ## Tinkercad Simulation
 
 [Theft Alert System](https://www.tinkercad.com/things/jYmOhcfcohv)
-
----
-
-## Author
-
-[Nishant Giri](https://github.com/nishant-giri "View Profile")
