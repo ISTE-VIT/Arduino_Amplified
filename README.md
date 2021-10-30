@@ -84,7 +84,7 @@ git push origin my-new-branch
 
  <details><summary>Advance</summary>
 <p>
-
+<hr/>
 * [Numeric Keypad based Lock system](#Numeric-Keypad-based-Lock-system)
 * [Crowd warning system](#Crowd-warning-system)
 * [Gas detecting Helmet](#Gas-detecting-Helmet)
@@ -101,7 +101,8 @@ Use PIR (passive infrared) sensor and design a circuit which can sense human pre
  #### Counter using an IR sensor
 The main goal of the project is to create a system which senses when a person enters a room using only one IR sensor and is able to keep a track of how many people are entering.
 You are free to add additional features to it !
- 
+ <br>
+ <hr/>
  #### Smoke Detector
 In this project, we will create a smoke detector using Arduino. The detector will detect the smoke and will notify the user, by various means such as a glowing red light or even an alarm system.
  
